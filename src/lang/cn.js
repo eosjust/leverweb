@@ -1,0 +1,51 @@
+module.exports = {
+    mainmenu: {
+        menu: '菜单',
+        swap: '兑换',
+        trade:'交易',
+        stake:'质押',
+        profit:'分红',
+        vote:'投票',
+        unsupport:'不支持',
+        redeem:'赎回',
+        withdraw:'提取',
+
+        addLiquidity:'添加流动性',
+        certificate:'凭证',
+
+        allStaked:'总质押',
+        myStaked:'我的质押',
+        mineProfit:'挖矿收益',
+        stakeProfit:'质押收益',
+        liquidityProfit:'做市收益',
+        withdrawProfit:'领取收益',
+
+        mine:'挖矿',
+        mine1:'挖矿一期',
+        mine2:'挖矿二期',
+        swapPrice:'兑换价格',
+        fees:'手续费',
+        liquidity:'流通量',
+        myLiquidity:'我的流通量',
+        airdrop: '空投',
+        bancor: 'BANCOR',
+        bancorTrade: '交易(bancor)',
+        swapTrade: '交易(swap)',
+        marketing: '做市',
+        wpaper:'白皮书',
+        help: '帮助',
+        login: '登录',
+        logout: '退出',
+        language: 'CN',
+        payment:'支付',
+        account:'账户',
+        received:'获取',
+        balance:'余额',
+        goodDay:'今天是挖LMT的好日子'
+    },
+    tips: {
+        payplacehold: '输入支付数量',
+        receiveplacehold: '计算获取数量',
+
+    },
+}

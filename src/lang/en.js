@@ -1,0 +1,51 @@
+module.exports = {
+    mainmenu: {
+        menu: 'menu',
+        swap: 'Swap',
+        trade:'Trade',
+        stake:'Stake',
+        profit:'Profit',
+        vote:'Vote',
+        unsupport:'UnSupport',
+        redeem:'Redeem',
+        withdraw:'Withdraw',
+
+        addLiquidity:'Add Liquidity',
+        certificate:'Certificate',
+
+        allStaked:'All Staked',
+        myStaked:'My Staked',
+        mineProfit:'Mine Profit',
+        stakeProfit:'Stake Profit',
+        liquidityProfit:'Liquidity Profit',
+        withdrawProfit:'Withdraw',
+
+        mine:'Mine',
+        mine1:'Mine v1',
+        mine2:'Mine v2',
+        swapPrice:'Price',
+        fees:'Fees',
+        liquidity:'Liquidity',
+        myLiquidity:'My Liquidity',
+        airdrop: 'Airdrop',
+        bancor: 'Bancor',
+        bancorTrade: 'Bancor',
+        swapTrade: 'Swap',
+        marketing: 'Marketing',
+        wpaper:'White Paper',
+        help: 'help',
+        login: 'login',
+        logout: 'logout',
+        language: 'EN',
+        payment:'Payment',
+        account:'account',
+        received:'Received',
+        balance:'Bal.',
+        goodDay:'It\'s a good day to mine some LMT on COCOS.\n'
+    },
+    tips: {
+        payplacehold: 'Payment amount',
+        receiveplacehold: 'Received amount',
+
+    },
+}
